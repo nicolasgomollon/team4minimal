@@ -47,7 +47,7 @@ table {
 	border-spacing: 0;
 }
 
-header div, nav div, section, footer>div, .flash div {
+header div, nav div, section, footer div, .flash div {
 	max-width: 480pt;
 	margin: 0 auto;
 	padding: 0;
@@ -64,6 +64,21 @@ header {
 	padding: 6pt;
 /* 	margin-bottom: 18pt; */
 /* 	border-bottom: 1pt solid rgba(0, 0, 0, 0.24); */
+	height: 292px;
+}
+
+footer {
+	background: #134e8a;
+	color: #fff;
+	text-shadow: 0 1pt 0 rgba(0, 0, 0, 0.2);
+	padding: 10pt;
+	margin-top: 15pt;
+}
+
+footer div {
+	text-align: center;
+	font-weight: bold;
+	font-size: 10pt;
 }
 
 nav {
@@ -131,7 +146,7 @@ abbr {
 }
 
 p {
-	margin: 0 0 1em;
+	margin: 0 0 0.5em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -326,9 +341,9 @@ h2 a {
 }
 
 h3 {
-	font-size: 1.2em;
-	color: #555;
-	font-weight: bold;
+	font-size: 0.9em;
+	color: #444;
+	font-weight: normal;
 	margin-bottom: 0.2em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
@@ -412,4 +427,44 @@ span.nowrap {
 
 .hidden {
 	visibility: hidden;
+}
+
+#teamFourElement {
+	float: left;
+	margin-top: 50px;
+	background-image: url(../vectors/team-four-element.svg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 314px 134px;
+	width: 314px; height: 134px;
+}
+
+#phoenix {
+	float: right;
+	background-image: url(../vectors/phoenix.svg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+	width: 300px; height: 300px;
+}
+
+#schoolInfo {
+	float: left;
+	position: absolute;
+	margin-top: 220px;
+	margin-left: 50px;
+}
+
+#schoolInfo a {
+	color: white;
+	font-weight: bold;
+}
+
+#schoolInfo .small {
+	font-size: 0.8em;
+}
+
+.post {
+	padding-top: 10pt;
+	padding-bottom: 10pt;
 }
