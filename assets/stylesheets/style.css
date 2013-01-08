@@ -64,7 +64,7 @@ header {
 	padding: 6pt;
 /* 	margin-bottom: 18pt; */
 /* 	border-bottom: 1pt solid rgba(0, 0, 0, 0.24); */
-	height: 292px;
+	height: 290px;
 }
 
 footer {
@@ -467,4 +467,8 @@ span.nowrap {
 .post {
 	padding-top: 10pt;
 	padding-bottom: 10pt;
+}
+
+.mentorInfo {
+	vertical-align: middle;
 }
