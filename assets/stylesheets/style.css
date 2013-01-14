@@ -473,3 +473,17 @@ span.nowrap {
 .mentorInfo {
 	vertical-align: middle;
 }
+
+.sponsor {
+	text-align: center;
+	vertical-align: middle;
+	padding: 10pt 0pt;
+}
+
+.sponsorLogo {
+	border: 0;
+}
+
+.sponsorLogo:hover {
+	border: 0;
+}
