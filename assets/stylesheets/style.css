@@ -19,10 +19,11 @@ html {
 	-ms-font-smoothing: antialiased;
 	-o-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
 }
 
 body {
-	font-family: "Gotham", "Gotham Book", "Gotham-Book", "Avenir", "ProximaNova-Regular", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family: "Gotham", "Gotham Book", "Gotham-Book", "Avenir", "ProximaNova-Regular", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", sans-serif;
 	font-weight: 300;
 	font-size: 12pt;
 	line-height: 1.5em;
