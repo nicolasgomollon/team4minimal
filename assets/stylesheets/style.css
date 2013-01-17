@@ -430,6 +430,16 @@ span.nowrap {
 	visibility: hidden;
 }
 
+#fourOHfour {
+	float: left;
+	margin-top: 50px;
+	background-image: url(../vectors/four-oh-four.svg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 268px 134px;
+	width: 268px; height: 134px;
+}
+
 #teamFourElement {
 	float: left;
 	margin-top: 50px;

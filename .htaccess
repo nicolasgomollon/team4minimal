@@ -1,0 +1,28 @@
+ErrorDocument 404 /404.php
+
+# Prevent directory listings
+Options -Indexes
+
+# Add additional MIME Types
+#AddType mime/type-here .ext .anotherext
+
+# Automatically add utf-8 charset to files
+<FilesMatch "\.(htm|html|php|asp|css|js)$">
+AddDefaultCharset UTF-8
+</FilesMatch>
+
+# Reduce page size by compressing static data and save bandwidth
+AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/xhtml+xml text/javascript application/x-javascript application/json
+<FilesMatch "\.(svg|ttf|otf|eot)$" >
+SetOutputFilter DEFLATE
+</FilesMatch>
+
+# MAINTENANCE PAGE REDIRECT
+RewriteEngine on
+#RewriteBase /
+#RewriteCond %{REMOTE_ADDR} !^76\.171\.220\.106
+#RewriteCond %{REQUEST_URI} !^/maintenance\.php$
+#RewriteCond %{REQUEST_URI} !\.(css|js|png|svg|jpe?g?|gif) [NC]
+#RewriteRule ^(.*)$ /maintenance.php [R=307,L]
+
+#Redirect 301 /SHORTCUT /PAGE/OR.URL
