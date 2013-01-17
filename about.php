@@ -27,11 +27,11 @@
 	</header>
 	<nav>
 		<div>
-			<a href="index.html">Home</a>
-			<a href="about.html" class="current">About</a>
+			<a href="index.php">Home</a>
+			<a href="about.php" class="current">About</a>
 			<a href="#">FIRST</a>
-			<a href="mentors.html">Mentors</a>
-			<a href="sponsors.html">Sponsors</a>
+			<a href="mentors.php">Mentors</a>
+			<a href="sponsors.php">Sponsors</a>
 			<a href="#">Media</a>
 			<a href="#">Resources</a>
 			<a href="#">Connect</a>

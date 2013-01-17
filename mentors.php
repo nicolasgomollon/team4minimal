@@ -3,9 +3,11 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Team 4 ELEMENT | Mentors</title>
+	<link rel="icon" type="image/png" href="/favicon.png">
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 	<!--[if IE]>
+		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.ie.css" />
 		<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -25,11 +27,11 @@
 	</header>
 	<nav>
 		<div>
-			<a href="index.html">Home</a>
-			<a href="about.html">About</a>
+			<a href="index.php">Home</a>
+			<a href="about.php">About</a>
 			<a href="#">FIRST</a>
-			<a href="mentors.html" class="current">Mentors</a>
-			<a href="sponsors.html">Sponsors</a>
+			<a href="mentors.php" class="current">Mentors</a>
+			<a href="sponsors.php">Sponsors</a>
 			<a href="#">Media</a>
 			<a href="#">Resources</a>
 			<a href="#">Connect</a>
