@@ -26,6 +26,7 @@
 	<title>Team 4 ELEMENT | 404</title>
 	<link rel="icon" type="image/png" href="/favicon.png">
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.css" />
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.mobile.css" media="all and (max-device-width: 480px)" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 	<!--[if IE]>
 		<link rel="shortcut icon" href="/favicon.ico" />
@@ -38,7 +39,7 @@
 	<header>
 		<div>
 			<div id="fourOHfour"></div>
-			<div id="phoenix"></div>
+			<div id="phoenix" class="noMobile"></div>
 			<div id="schoolInfo">
 				<a href="http://www.ht-la.org/" target="_blank">High Tech Los Angeles</a>
 				<br />
