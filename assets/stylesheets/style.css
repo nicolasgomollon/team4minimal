@@ -43,6 +43,21 @@ blockquote:before, blockquote:after, q:before, q:after {
 	content: none;
 }
 
+blockquote {
+	border-left: 5pt solid #ddd;
+	color: #888;
+	margin: 10pt 0;
+	padding-left: 1em;
+}
+
+blockquote a {
+	color: #444;
+}
+
+blockquote a:hover {
+	color: #0881b3;
+}
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -66,6 +81,45 @@ header {
 /* 	margin-bottom: 18pt; */
 /* 	border-bottom: 1pt solid rgba(0, 0, 0, 0.24); */
 	height: 290px;
+}
+
+div.grater-container {
+	width: 480px;
+	margin: 0 auto;
+}
+
+div.grater {
+	zoom: 1;
+}
+
+div.grater>div {
+/* 	width: 240px; */
+	margin: 0 0 2em;
+}
+
+div.grater>div:first-child {
+	float: left;
+}
+
+div.grater>div:last-child {
+	float: right;
+}
+
+div.grater.reverse>div:first-child {
+	float: right;
+}
+
+div.grater.reverse>div:last-child {
+	float: left;
+}
+
+div.grater:before, div.grater:after {
+	content: "";
+	display: table;
+}
+
+div.grater:after {
+	clear: both;
 }
 
 footer {
@@ -109,7 +163,7 @@ nav a:hover {
 	border-bottom: 2pt solid;
 }
 
-.current {
+.active {
 	border-bottom: 2pt solid;
 }
 
@@ -133,6 +187,7 @@ strong, b {
 }
 
 em {
+	font-style: normal;
 	background-color: #fffeca;
 	padding: 0 0.1em;
 }
@@ -209,17 +264,6 @@ div.pic {
 	margin-left: 0.75em;
 }
 
-blockquote {
-	border-left: 5pt solid #ddd;
-	color: #888;
-	margin: 0 0 1em;
-	padding-left: 1em;
-}
-
-blockquote a {
-	color: #888;
-}
-
 .return {
 	margin: 1em;
 }
@@ -238,79 +282,29 @@ small a:hover {
 	color: #2e80d3;
 }
 
-pre, code, code span {
+pre, code {
+	background-color: #f8f8ff;
+	border: 1px solid #dedede;
+	color: #444;
 	font-family: "Menlo", "Monaco", "Courier", monospace;
-	font-size: 8pt;
-	line-height: 1.4em;
 }
 
 pre {
-	-webkit-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
-	-moz-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
-	-ms-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
-	-o-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
-	box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
-	-webkit-border-radius: 5pt;
-	-moz-border-radius: 5pt;
-	-ms-border-radius: 5pt;
-	-o-border-radius: 5pt;
-	border-radius: 5pt;
-	text-shadow: none;
-	background-color: #ffffff;
-	border: 1pt solid #ffffff;
-	margin: 0 0 1.5em;
-	padding: 8pt;
-	overflow-x: scroll;
+	font-size: 13px;
+	margin: 10pt 0;
+	overflow: auto;
+	padding: 0.5em;
 }
 
-pre a {
-	color: #4b89d0;
-}
-
-pre a:hover {
-	color: #1457b3;
+code {
+	padding: 0 0.2em;
+	font-size: 0.8em;
 }
 
 pre code {
-	color: #000000;
+	border: medium none;
+	font-size: 1em;
 	padding: 0;
-	text-shadow: none;
-}
-
-code span.brown, code span.preprocessor, code span.import {
-	color: #78482f;
-}
-
-code span.pink {
-	color: #bb2d9d;
-}
-
-code span.red, code span.string {
-	color: #d22c25;
-}
-
-code span.green, code span.comment {
-	color: #008425;
-}
-
-code span.lightgreen, code span.object {
-	color: #4e8186;
-}
-
-code span.darkgreen, code span.methodcustom, code span.methodsubclass {
-	color: #31595d;
-}
-
-code span.blue, code span.number, code span.float, code span.int, code span.integer {
-	color: #2c2ecf;
-}
-
-code span.lightpurple, code span.class {
-	color: #713ea4;
-}
-
-code span.purple, code span.method {
-	color: #3f1f7c;
 }
 
 h1 {
@@ -476,8 +470,25 @@ span.nowrap {
 }
 
 .post {
-	padding-top: 10pt;
-	padding-bottom: 10pt;
+	padding: 14pt 0;
+}
+
+.mentorPost {
+	display: inline-block;
+}
+
+.mentorPost.reverse {
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.mentor {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.mentor.reverse {
+	float: right;
 }
 
 .mentorInfo {

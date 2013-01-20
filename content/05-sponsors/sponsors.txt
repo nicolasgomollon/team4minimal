@@ -1,0 +1,35 @@
+Title: Sponsors
+----
+Text:
+
+<!-- -->
+<table width="100%">
+	<tr>
+		<!-- The Kenneth T. and Eileen L. Norris Foundation -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.ktn.org/"><img width="150" height="27" src="assets/images/sponsors/NorrisFoundation.png" onmouseover="this.src='assets/images/sponsors/NorrisFoundation-Hover.png'" onmouseout="this.src='assets/images/sponsors/NorrisFoundation.png'"/></a></td>
+		<!-- GibbsCAM -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.gibbscam.com/"><img width="145" height="23" src="assets/images/sponsors/GibbsCAM.png" onmouseover="this.src='assets/images/sponsors/GibbsCAM-Hover.png'" onmouseout="this.src='assets/images/sponsors/GibbsCAM.png'"/></a></td>
+		<!-- SolidWorks -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.solidworks.com/"><img width="145" height="87" src="assets/images/sponsors/SolidWorks.png" onmouseover="this.src='assets/images/sponsors/SolidWorks-Hover.png'" onmouseout="this.src='assets/images/sponsors/SolidWorks.png'"/></a></td>
+	</tr>
+	<tr>
+		<!-- Tides Foundation -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.tides.org/"><img width="150" height="80" src="assets/images/sponsors/TidesFoundation.png" onmouseover="this.src='assets/images/sponsors/TidesFoundation-Hover.png'" onmouseout="this.src='assets/images/sponsors/TidesFoundation.png'"/></a></td>
+		<!-- Full Scale Effects -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.fullscalefx.com/"><img width="150" height="150" src="assets/images/sponsors/FullScaleFX.png" onmouseover="this.src='assets/images/sponsors/FullScaleFX-Hover.png'" onmouseout="this.src='assets/images/sponsors/FullScaleFX.png'"/></a></td>
+		<!-- Sawing Services Co. -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.sawingservices.com/"><img width="150" height="23" src="assets/images/sponsors/SawingServices.png" onmouseover="this.src='assets/images/sponsors/SawingServices-Hover.png'" onmouseout="this.src='assets/images/sponsors/SawingServices.png'"/></a></td>
+	</tr>
+	<tr>
+		<!-- Roberts Tool Company, Inc. -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.robertstool.net/"><img width="150" height="35" src="assets/images/sponsors/RobertsToolCo.png" onmouseover="this.src='assets/images/sponsors/RobertsToolCo-Hover.png'" onmouseout="this.src='assets/images/sponsors/RobertsToolCo.png'"/></a></td>
+		<!-- Milken Family Foundation -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.mff.org/"><img width="150" height="150" src="assets/images/sponsors/MilkenFamilyFoundation.png" onmouseover="this.src='assets/images/sponsors/MilkenFamilyFoundation-Hover.png'" onmouseout="this.src='assets/images/sponsors/MilkenFamilyFoundation.png'"/></a></td>
+		<!-- The Ralphs/Food 4 Less Foundation -->
+		<td class="sponsor"><img width="150" height="108" src="assets/images/sponsors/RalphsFood4LessFoundation.png" onmouseover="this.src='assets/images/sponsors/RalphsFood4LessFoundation-Hover.png'" onmouseout="this.src='assets/images/sponsors/RalphsFood4LessFoundation.png'"/></td>
+	</tr>
+	<tr>
+		<!-- High Tech Los Angeles -->
+		<td class="sponsor" colspan="3"><a class="sponsorLogo" target="_blank" href="http://www.ht-la.org/"><img src="assets/images/sponsors/HighTechLA.png" onmouseover="this.src='assets/images/sponsors/HighTechLA-Hover.png'" onmouseout="this.src='assets/images/sponsors/HighTechLA.png'"/></a></td>
+	</tr>
+</table>

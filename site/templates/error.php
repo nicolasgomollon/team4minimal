@@ -22,9 +22,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title><?php echo html($site->title()) ?> | <?php echo html($page->title()) ?></title>
 	<meta charset="utf-8" />
-	<title>Team 4 ELEMENT | 404</title>
+	<meta name="description" content="<?php echo html($site->description()) ?>" />
+	<meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
+	<meta name="robots" content="index, follow" />
 	<link rel="icon" type="image/png" href="/favicon.png">
+<!-- 	<?php echo css('assets/stylesheets/styles.css') ?> -->
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.css" />
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/style.mobile.css" media="all and (max-device-width: 480px)" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
@@ -38,7 +42,9 @@
 <body>
 	<header>
 		<div>
-			<div id="fourOHfour"></div>
+<!-- I'll just leave this here... -->
+<!-- <?php echo url() ?> -->
+			<a href="<?php echo url() ?>"><div id="fourOHfour"></div></a>
 			<div id="phoenix" class="noMobile"></div>
 			<div id="schoolInfo">
 				<a href="http://www.ht-la.org/" target="_blank">High Tech Los Angeles</a>
@@ -47,26 +53,12 @@
 			</div>
 		</div>
 	</header>
-	<nav>
-		<div>
-			<a href="index.php">Home</a>
-			<a href="about.php">About</a>
-			<a href="#">FIRST</a>
-			<a href="mentors.php">Mentors</a>
-			<a href="sponsors.php">Sponsors</a>
-			<a href="#">Media</a>
-			<a href="#">Resources</a>
-			<a href="#">Connect</a>
-		</div>
-	</nav>
+<?php snippet('menu') ?>
+<!-- <?php snippet('submenu') ?> -->
 	<section>
 		<div class="post">
 			<p>Oops! What you're looking for simply doesn't exist.</p>
 			<p>If you feel you've reached this page by error, please <a href="<?php echo $contactUsLink; ?>">let us know</a>.</p>
 		</div>
 	</section>
-	<footer>
-		<div>Copyright &copy; 2013 Team 4 ELEMENT</div>
-	</footer>
-</body>
-</html>
+<?php snippet('footer') ?>

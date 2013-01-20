@@ -16,6 +16,29 @@ header>nav a {
 	margin: 0 0.175em;
 }
 
+div.grater-container {
+	width: 240px;
+}
+
+div.grater {
+	margin-bottom: 1em;
+}
+
+div.grater>div {
+	float: none !important;
+	margin: 0 auto 2em;
+}
+
+#fourOHfour {
+	float: none;
+	margin-top: 10pt;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-size: 240px 120px;
+	width: 240px; height: 120px;
+}
+
 #teamFourElement {
 	float: none;
 	margin-top: 10pt;
@@ -33,6 +56,15 @@ header>nav a {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
+}
+
+.mentorPost {
+	display: inline-block;
+	padding-bottom: 110px;
+}
+
+.mentor {
+	display: inline-block;
 }
 
 .footer a {
