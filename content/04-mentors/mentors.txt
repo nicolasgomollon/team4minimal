@@ -4,7 +4,7 @@ Text:
 
 <!-- -->
 <div class="post mentorPost" style="height:370px;">
-	<span class="mentor"><img width="240" height="370" src="assets/images/mentors/MaralRostami.png"/></span>
+	<span class="mentor">(image: MaralRostami.png width: 240 height: 370 alt: Photo of Maral Rostami)</span>
 	<span class="mentor mentorInfo">
 		<h1>Maral Rostami</h1>
 		<h2>2008 - Present</h2>
@@ -12,7 +12,7 @@ Text:
 	</span>
 </div>
 <div class="post mentorPost reverse" style="height:278px;">
-	<span class="mentor"><img width="240" height="278" src="assets/images/mentors/ArnoBabahekian.png"/></span>
+	<span class="mentor">(image: ArnoBabahekian.png width: 240 height: 278 alt: Photo of Arno Babahekian)</span>
 	<span class="mentor mentorInfo">
 		<h1>Arno Babahekian</h1>
 		<h2>2009 - Present</h2>
@@ -20,7 +20,7 @@ Text:
 	</span>
 </div>
 <div class="post mentorPost" style="height:345px;">
-	<span class="mentor"><img width="240" height="345" src="assets/images/mentors/GuyChriqui.png"/></span>
+	<span class="mentor">(image: GuyChriqui.png width: 240 height: 345 alt: Photo of Guy Chriqui)</span>
 	<span class="mentor mentorInfo">
 		<h1>Guy Chriqui</h1>
 		<h2>2012 - Present</h2>
@@ -28,7 +28,7 @@ Text:
 	</span>
 </div>
 <div class="post mentorPost reverse" style="height:319px;">
-	<span class="mentor"><img width="240" height="319" src="assets/images/mentors/NicholasHunter.png"/></span>
+	<span class="mentor">(image: NicholasHunter.png width: 240 height: 319 alt: Photo of Nicholas Hunter)</span>
 	<span class="mentor mentorInfo">
 		<h1>Nicholas Hunter</h1>
 		<h2>2010 - Present</h2>
