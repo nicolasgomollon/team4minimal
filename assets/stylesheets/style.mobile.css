@@ -16,19 +16,6 @@ header>nav a {
 	margin: 0 0.175em;
 }
 
-div.grater-container {
-	width: 240px;
-}
-
-div.grater {
-	margin-bottom: 1em;
-}
-
-div.grater>div {
-	float: none !important;
-	margin: 0 auto 2em;
-}
-
 #fourOHfour {
 	float: none;
 	margin-top: 10pt;
@@ -65,11 +52,6 @@ div.grater>div {
 
 .mentor {
 	display: inline-block;
-}
-
-.footer a {
-	float: none;
-	display: block;
 }
 
 .noMobile {

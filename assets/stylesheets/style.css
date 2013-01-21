@@ -27,7 +27,6 @@ body {
 	font-weight: 300;
 	font-size: 12pt;
 	line-height: 1.5em;
-/* 	background: #d1d2d1 url(../images/background.jpg) top left repeat; */
 }
 
 ol, ul {
@@ -78,48 +77,7 @@ header {
 	color: #fff;
 	text-shadow: 0 1pt 0 rgba(0, 0, 0, 0.2);
 	padding: 6pt;
-/* 	margin-bottom: 18pt; */
-/* 	border-bottom: 1pt solid rgba(0, 0, 0, 0.24); */
 	height: 290px;
-}
-
-div.grater-container {
-	width: 480px;
-	margin: 0 auto;
-}
-
-div.grater {
-	zoom: 1;
-}
-
-div.grater>div {
-/* 	width: 240px; */
-	margin: 0 0 2em;
-}
-
-div.grater>div:first-child {
-	float: left;
-}
-
-div.grater>div:last-child {
-	float: right;
-}
-
-div.grater.reverse>div:first-child {
-	float: right;
-}
-
-div.grater.reverse>div:last-child {
-	float: left;
-}
-
-div.grater:before, div.grater:after {
-	content: "";
-	display: table;
-}
-
-div.grater:after {
-	clear: both;
 }
 
 footer {
@@ -211,63 +169,6 @@ hr {
 	border: 0;
 }
 
-div.pic {
-	display: block;
-	border: 4pt solid #ffffff;
-	-webkit-border-radius: 3pt;
-	-moz-border-radius: 3pt;
-	-ms-border-radius: 3pt;
-	-o-border-radius: 3pt;
-	border-radius: 3pt;
-	-webkit-box-shadow: 0pt 0pt 3pt rgba(0, 0, 0, 0.5);
-	-moz-box-shadow: 0pt 0pt 3pt rgba(0, 0, 0, 0.5);
-	-ms-box-shadow: 0pt 0pt 3pt rgba(0, 0, 0, 0.5);
-	-o-box-shadow: 0pt 0pt 3pt rgba(0, 0, 0, 0.5);
-	box-shadow: 0pt 0pt 3pt rgba(0, 0, 0, 0.5);
-	background: none no-repeat scroll 0% 0% #ffffff;
-	float: left;
-	margin: 0.5em 1em 0.5em 0pt;
-	line-height: 0;
-}
-
-.moreInfo {
-	display: block;
-	color: #232323;
-	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.3);
-	background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.1);
-	border: 1pt solid rgba(0, 0, 0, 0.12);
-	padding: 4pt 8pt;
-	margin: 10pt 0pt;
-	-webkit-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
-	-moz-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
-	-ms-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
-	-o-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
-	box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
-	-webkit-border-radius: 3pt;
-	-moz-border-radius: 3pt;
-	-ms-border-radius: 3pt;
-	-o-border-radius: 3pt;
-	border-radius: 3pt;
-}
-
-.moreInfo * {
-	font-size: 10pt;
-}
-
-.moreInfo ul {
-	float: right;
-	margin: 0;
-}
-
-.moreInfo li {
-	display: inline;
-	margin-left: 0.75em;
-}
-
-.return {
-	margin: 1em;
-}
-
 small {
 	font-size: 0.8em;
 	color: #9a9ea8;
@@ -350,32 +251,12 @@ h4 {
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
-.light {
-	color: #9a9ea8;
-}
-
-.light a {
-	color: #9a9ea8;
-}
-
-.light a:hover {
-	color: #0881b3;
-}
-
 a.light {
 	color: #9a9ea8;
 }
 
 a.light:hover {
 	color: #0881b3;
-}
-
-.orange {
-	color: #ff7243;
-}
-
-.orange a {
-	color: #ff7243;
 }
 
 a.orange {
