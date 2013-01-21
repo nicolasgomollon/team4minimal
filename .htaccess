@@ -57,6 +57,7 @@ Options -Indexes
 
 # Add additional MIME Types
 #AddType mime/type-here .ext .anotherext
+AddType text/x-component .htc
 
 # Reduce page size by compressing static data and save bandwidth
 AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/xhtml+xml text/javascript application/x-javascript application/json

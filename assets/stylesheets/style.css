@@ -399,6 +399,7 @@ span.nowrap {
 	width: 57px; height: 57px;
 	border-radius: 10px;
 	box-shadow: 0px 1px 1px #000000;
+	behavior: url(assets/scripts/PIE.htc);
 }
 
 .social a {
