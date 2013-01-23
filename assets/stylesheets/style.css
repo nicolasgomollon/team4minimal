@@ -308,7 +308,7 @@ span.nowrap {
 #fourOHfour {
 	float: left;
 	margin-top: 50px;
-	background-image: url(../vectors/four-oh-four.svg);
+	background-image: url(../vectors/four-oh-four.svgz);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 268px 134px;
@@ -318,7 +318,7 @@ span.nowrap {
 #teamFourElement {
 	float: left;
 	margin-top: 50px;
-	background-image: url(../vectors/team-four-element.svg);
+	background-image: url(../vectors/team-four-element.svgz);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 314px 134px;
@@ -327,7 +327,7 @@ span.nowrap {
 
 #phoenix {
 	float: right;
-	background-image: url(../vectors/phoenix.svg);
+	background-image: url(../vectors/phoenix.svgz);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 300px 300px;
