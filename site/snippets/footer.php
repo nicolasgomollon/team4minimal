@@ -10,5 +10,6 @@
 	<footer>
 		<div><?php echo $site->copyright() ?></div>
 	</footer>
+	<script type="text/javascript" src="assets/scripts/retina.js"></script>
 </body>
 </html>

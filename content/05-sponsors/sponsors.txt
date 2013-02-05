@@ -30,6 +30,6 @@ Text:
 	</tr>
 	<tr>
 		<!-- High Tech Los Angeles -->
-		<td class="sponsor" colspan="3"><a class="sponsorLogo" target="_blank" href="http://www.ht-la.org/"><img src="assets/images/sponsors/HighTechLA.png" onmouseover="this.src='assets/images/sponsors/HighTechLA-Hover.png'" onmouseout="this.src='assets/images/sponsors/HighTechLA.png'"/></a></td>
+		<td class="sponsor" colspan="3"><a class="sponsorLogo" target="_blank" href="http://www.ht-la.org/"><img width="255" height="64" src="assets/images/sponsors/HighTechLA.png" onmouseover="this.src='assets/images/sponsors/HighTechLA-Hover.png'" onmouseout="this.src='assets/images/sponsors/HighTechLA.png'"/></a></td>
 	</tr>
 </table>

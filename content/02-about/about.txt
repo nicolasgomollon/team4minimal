@@ -8,4 +8,4 @@ Text:
 High Tech Los Angeles formed its own team in 2006. When registering, the team was given the opportunity to choose a retired team number, as it was not seen as a rookie team. Thus, Team 4 ELEMENT was established. ELEMENT is an acronym that stands for Engineering, Leadership, Entrepreneurship, Mentoring, Education, Networking, and Teamwork. The team logo is the Phoenix, the team colors are turquoise and black, and the team motto is &ldquo;Igniting the Flames of Passion&rdquo;.
 
 </div>
-<div class="post center"><img width="640" height="424" src="assets/images/team-picture.jpg"/></div>
+<div class="post center">(image: team-picture.jpg class: frcLogo width: 640 height: 424 alt: Team 4 ELEMENT Photo)</div>

@@ -7,7 +7,7 @@ Text:
 
 <div class="center" markdown="1">
 
-<img style="padding-bottom:7pt;" width="250" height="173" src="assets/images/frc-logo.png"/>
+(image: frc-logo.png class: frcLogo width: 250 height: 173 alt: FIRST Robotics Competition Logo)
 
 **&ldquo;For Inspiration and Recognition of Science and Technology&rdquo;**
 
