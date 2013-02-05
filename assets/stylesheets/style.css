@@ -389,6 +389,20 @@ span.nowrap {
 	border: 0;
 }
 
+.sponsorFamily {
+	cursor: pointer;
+	font-weight: bold;
+	color: #bebebe;
+}
+
+.sponsorFamily:hover {
+	color: #3cb0e3;
+}
+
+.sponsorFamily:hover .sponsorFamilyName {
+	color: #134e8a;
+}
+
 .frcLogo {
 	padding-bottom: 7pt;
 }

@@ -29,6 +29,26 @@ Text:
 		<td class="sponsor"><img width="150" height="108" src="assets/images/sponsors/RalphsFood4LessFoundation.png" onmouseover="this.src='assets/images/sponsors/RalphsFood4LessFoundation-Hover.png'" onmouseout="this.src='assets/images/sponsors/RalphsFood4LessFoundation.png'"/></td>
 	</tr>
 	<tr>
+		<!-- Boeing -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.boeing.com/"><img width="150" height="65" src="assets/images/sponsors/Boeing.png" onmouseover="this.src='assets/images/sponsors/Boeing-Hover.png'" onmouseout="this.src='assets/images/sponsors/Boeing.png'"/></a></td>
+		<!-- Pratt & Whitney Rocketdyne -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.pratt-whitney.com/"><img width="150" height="129" src="assets/images/sponsors/PrattWhitney.png" onmouseover="this.src='assets/images/sponsors/PrattWhitney-Hover.png'" onmouseout="this.src='assets/images/sponsors/PrattWhitney.png'"/></a></td>
+		<!-- Raytheon -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.raytheon.com/"><img width="150" height="29" src="assets/images/sponsors/Raytheon.png" onmouseover="this.src='assets/images/sponsors/Raytheon-Hover.png'" onmouseout="this.src='assets/images/sponsors/Raytheon.png'"/></a></td>
+	</tr>
+	<tr>
+		<!-- Time Warner Cable -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.timewarnercable.com/"><img width="150" height="59" src="assets/images/sponsors/TimeWarnerCable.png" onmouseover="this.src='assets/images/sponsors/TimeWarnerCable-Hover.png'" onmouseout="this.src='assets/images/sponsors/TimeWarnerCable.png'"/></a></td>
+		<!-- WAAG -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.waag.com/"><img width="150" height="29" src="assets/images/sponsors/WAAG.png" onmouseover="this.src='assets/images/sponsors/WAAG-Hover.png'" onmouseout="this.src='assets/images/sponsors/WAAG.png'"/></a></td>
+		<!-- Family Sponsors -->
+		<td class="sponsor">
+			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Jefferson</span>&nbsp;Family</span></div>
+			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Gaytan</span>&nbsp;Family</span></div>
+			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Karchemsky</span>&nbsp;Family</span></div>
+		</td>
+	</tr>
+	<tr>
 		<!-- High Tech Los Angeles -->
 		<td class="sponsor" colspan="3"><a class="sponsorLogo" target="_blank" href="http://www.ht-la.org/"><img width="255" height="64" src="assets/images/sponsors/HighTechLA.png" onmouseover="this.src='assets/images/sponsors/HighTechLA-Hover.png'" onmouseout="this.src='assets/images/sponsors/HighTechLA.png'"/></a></td>
 	</tr>
