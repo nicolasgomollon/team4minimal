@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, dialog, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, dialog, embed, figure, figcaption, social, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, hr, p, bl
 	background-color: transparent;
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article, aside, details, figcaption, figure, social, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
@@ -62,7 +62,7 @@ table {
 	border-spacing: 0;
 }
 
-header div, nav div, section, footer div, .flash div {
+header div, nav div, section, social div, footer div, .flash div {
 	max-width: 480pt;
 	margin: 0 auto;
 	padding: 0;
@@ -85,7 +85,6 @@ footer {
 	color: #fff;
 	text-shadow: 0 1pt 0 rgba(0, 0, 0, 0.2);
 	padding: 10pt;
-	margin-top: 15pt;
 }
 
 footer div {
@@ -390,24 +389,62 @@ span.nowrap {
 	border: 0;
 }
 
-.social {
+.frcLogo {
+	padding-bottom: 7pt;
+}
+
+social {
+	background: #3cb0e3;
+	margin-top: 15pt;
+}
+
+social div a {
 	display: inline-block;
-	margin: 5pt 10pt;
-}
-
-.social img {
-	width: 57px; height: 57px;
-	border-radius: 10px;
-	box-shadow: 0px 1px 1px #000000;
-	behavior: url(assets/scripts/PIE.htc);
-}
-
-.social a {
-	color: #000000;
+	margin: 5pt;
+	margin-top: 8pt;
 	border: 0;
 }
 
-.social a:hover {
-	color: #000000;
+social div a:hover {
 	border: 0;
+}
+
+#socialIconTwitter {
+	background-image: url(../vectors/twitter.svgz);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 30px 24px;
+	width: 30px; height: 24px;
+}
+
+#socialIconFacebook {
+	background-image: url(../vectors/facebook.svgz);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	width: 24px; height: 24px;
+}
+
+#socialIconYouTube {
+	background-image: url(../vectors/youtube.svgz);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 64px 24px;
+	width: 64px; height: 24px;
+}
+
+#socialIconInstagram {
+	background-image: url(../vectors/instagram.svgz);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	width: 24px; height: 24px;
+}
+
+#socialIconGitHub {
+	background-image: url(../vectors/github.svgz);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	width: 24px; height: 24px;
 }
