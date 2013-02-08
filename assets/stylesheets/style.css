@@ -353,6 +353,65 @@ span.nowrap {
 	padding: 14pt 0;
 }
 
+.previous {
+	display: inline-block;
+	float: left;
+}
+
+.next {
+	display: inline-block;
+	float: right;
+	text-align: right;
+}
+
+nav.pagination {
+	background: none;
+	text-align: center;
+	height: 1em;
+	padding-bottom: 28pt;
+}
+
+nav.pagination a {
+	padding: 2px 6px;
+	-webkit-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
+	-moz-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
+	-ms-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
+	-o-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
+	transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
+	color: #0881b3;
+	font-weight: normal;
+	text-decoration: none;
+	border-bottom: 1pt solid transparent;
+}
+
+nav.pagination a: hover {
+	background: #0881b3;
+	border-color: #0881b3;
+	color: white;
+	font-weight: normal;
+	text-decoration: none;
+	text-shadow: none;
+	border-bottom: 1pt solid;
+}
+
+nav.pagination a[rel=next]: hover,nav.pagination a[rel=prev]: hover {
+	background: none;
+	text-decoration: underline;
+	color: #0881b3;
+}
+
+nav.pagination span {
+	padding: 2px 6px;
+}
+
+nav.pagination em {
+	padding: 4px 8px;
+}
+
+span.disabled {
+	color: #aaaaaa;
+}
+
 .mentorPost {
 	display: inline-block;
 }

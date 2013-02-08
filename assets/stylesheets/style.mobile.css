@@ -45,6 +45,26 @@ header>nav a {
 	margin-top: 20px;
 }
 
+.previous, .next {
+	float: none;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+nav.pagination {
+	height: 5em;
+}
+
+nav.pagination a,nav.pagination span.gap {
+	display: none;
+	margin: 0;
+}
+
+nav.pagination a.prev,nav.pagination a.next {
+	display: inline;
+}
+
 .mentorPost {
 	display: inline-block;
 	padding-bottom: 110px;
