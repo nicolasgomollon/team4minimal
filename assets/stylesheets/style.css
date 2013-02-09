@@ -361,6 +361,10 @@ img.post {
 	padding: 10pt 0;
 }
 
+img.postCenter {
+	padding: 10pt;
+}
+
 .previous {
 	display: inline-block;
 	float: left;

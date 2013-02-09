@@ -26,7 +26,10 @@ Design is almost finished with the robot drive base. William says everything loo
 > Everything that has been designed on SolidWorks has been fully machined and now we need to assemble all of the parts onto the robot.
 > — William Miguel
 
-<!-- <img alt='Rozie and Jesus' title='Shooter' src='/images/rozie.png' /> -->
+<p class="center">
+(image: http://i.imgur.com/FR7Q1MT.png class: postCenter width: 275 height: 208 alt: Shooter Testing)
+(image: http://i.imgur.com/2iGCTQe.png class: postCenter width: 291 height: 208 alt: Assembling Kit Bot)
+</p>
 
 Machining has completed producing all of the robot parts and are currently assisting other departments in assembling the robot.
 
@@ -42,5 +45,3 @@ Finance currently has a lot to manage. The Spirit part of finance is organizing 
 
 > I am currently writing a Las Vegas information letter to give out to the traveling team.
 > — Robin Franke
-
-<!-- <img alt='Ben and Jackson' title='Ben and Jackson' src='/images/jackson.png' /> -->
