@@ -9,8 +9,8 @@ Howdy Team 4 members and parents! We are having a very productive build season! 
 The departments are all doing their part to make sure that our robot is completed on time. At this point, Rozie, head of design, says that design is finishing up some of their computer designs, and Andreas is designing the lazy susan for the robot for aiming the ball. He is also working on fine tuning the lazy susan, but they are still having trouble getting the dimensions right.
 
 <p class="center">
-(image: http://i.imgur.com/ZYM8AAm.png class: postCenter width: 288 height: 211 alt: Design Department)
-(image: http://i.imgur.com/EgiyJ3a.png class: postCenter width: 280 height: 211 alt: Electronics Department)
+(image: design-department.png class: postCenter width: 288 height: 211 alt: Design Department)
+(image: electronics-department.png class: postCenter width: 280 height: 211 alt: Electronics Department)
 </p>
 
 Jesus, head of electronics, reports that they just recently finished prototyping the shooter and they are getting the electronics for the turret completed. Electronics is also building a new electronics box for the robot and wedges to get the robot on the bridge.

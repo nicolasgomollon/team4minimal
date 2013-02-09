@@ -27,8 +27,8 @@ Design is almost finished with the robot drive base. William says everything loo
 > — William Miguel
 
 <p class="center">
-(image: http://i.imgur.com/FR7Q1MT.png class: postCenter width: 275 height: 208 alt: Shooter Testing)
-(image: http://i.imgur.com/2iGCTQe.png class: postCenter width: 291 height: 208 alt: Assembling Kit Bot)
+(image: shooter-testing.png class: postCenter width: 275 height: 208 alt: Shooter Testing)
+(image: assembling-kit-bot.png class: postCenter width: 291 height: 208 alt: Assembling Kit Bot)
 </p>
 
 Machining has completed producing all of the robot parts and are currently assisting other departments in assembling the robot.
