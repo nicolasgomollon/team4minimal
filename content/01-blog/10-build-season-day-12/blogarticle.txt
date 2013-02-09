@@ -1,0 +1,22 @@
+Title: Build Season Day 12
+----
+Date: 01/16/2013
+----
+Text:
+
+Today was an exquisite day for Team 4! We really have a good start for this build season.
+
+Electronics set up the driver station, ordered parts, and checked batteries. It turns out there are _eight_ dead batteries and only two working batteries. Only two out of ten good batteries batteries? ¡Ay, caramba!
+
+After lots of troubleshooting and debugging, programming finally programmed the robot to drive straight using fancy gyro technology. Woo! Justin Comins, as jolly as can be, had this to say after the accomplishment:
+
+> Jumanji!
+> — Justin Comins
+
+Design finalized the design for the climber and began CADing it. Now _that's_ progress!
+
+Machining &ldquo;swagged out&rdquo; on the lathe. Woohoo!
+
+Various members of programming and electronics joined forces in the machine shop to work on machining the pole-grabbing mechanism of the climber. What a fine example of our integrated teamwork!
+
+All in all, it was a good, productive day. It only takes one spark to start the fire of passion, creativity, and innovation. Stay tuned for the exciting adventures that await!
