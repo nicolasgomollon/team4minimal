@@ -159,7 +159,7 @@ abbr {
 }
 
 p {
-	margin: 0 0 0.5em;
+	margin: 0 0 1em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -193,7 +193,7 @@ pre {
 	font-size: 13px;
 	margin: 10pt 0;
 	overflow: auto;
-	padding: 0.5em;
+	padding: 1em;
 }
 
 code {
@@ -207,12 +207,19 @@ pre code {
 	padding: 0;
 }
 
+.codeBlock {
+	background-color: #000000;
+	color: #28FE14;
+	font-family: "Courier", "Monaco", "Andale Mono", monospace;
+	margin: 10pt 0;
+	overflow: auto;
+	padding: 1em;
+}
+
 h1 {
 	color: #444;
 	font-size: 1.8em;
 	font-weight: bold;
-	line-height: 1.2em;
-	margin-bottom: 0.2em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -225,8 +232,6 @@ h2 {
 	color: #444;
 	font-size: 1.4em;
 	font-weight: bold;
-	line-height: 1.2em;
-	margin-bottom: 0.2em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -239,14 +244,13 @@ h3 {
 	font-size: 0.9em;
 	color: #444;
 	font-weight: normal;
-	margin-bottom: 0.2em;
+	margin: 0.5em 0;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
 h4 {
 	color: #9a9ea8;
 	font-weight: bold;
-	margin-bottom: 0.2em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -350,11 +354,11 @@ span.nowrap {
 }
 
 .post {
-	padding: 14pt 0;
+	padding: 18pt 0;
 }
 
 img.post {
-	padding: 0.5em 0;
+	padding: 10pt 0;
 }
 
 .previous {
@@ -372,7 +376,7 @@ nav.pagination {
 	background: none;
 	text-align: center;
 	height: 1em;
-	padding-bottom: 28pt;
+	padding-bottom: 36pt;
 }
 
 nav.pagination a {
@@ -467,7 +471,7 @@ span.disabled {
 }
 
 .frcLogo {
-	padding-bottom: 7pt;
+	padding-bottom: 9pt;
 }
 
 social {
