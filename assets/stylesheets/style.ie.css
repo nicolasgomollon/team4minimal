@@ -1,9 +1,33 @@
 @charset "utf-8";
 
+#fourOHfour {
+	background-image: url(../images/four-oh-four.png);
+}
+
 #teamFourElement {
 	background-image: url(../images/team-four-element.png);
 }
 
 #phoenix {
 	background-image: url(../images/phoenix.png);
+}
+
+#socialIconTwitter {
+	background-image: url(../images/twitter.png);
+}
+
+#socialIconFacebook {
+	background-image: url(../images/facebook.png);
+}
+
+#socialIconYouTube {
+	background-image: url(../images/youtube.png);
+}
+
+#socialIconInstagram {
+	background-image: url(../images/instagram.png);
+}
+
+#socialIconGitHub {
+	background-image: url(../images/github.png);
 }
