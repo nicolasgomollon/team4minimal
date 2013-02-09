@@ -353,6 +353,10 @@ span.nowrap {
 	padding: 14pt 0;
 }
 
+img.post {
+	padding: 0.5em 0;
+}
+
 .previous {
 	display: inline-block;
 	float: left;
