@@ -44,7 +44,9 @@ Text:
 		<!-- Thomson Linear -->
 		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.thomsonlinear.com/"><img width="150" height="36" src="assets/images/sponsors/ThomsonLinear.png" onmouseover="this.src='assets/images/sponsors/ThomsonLinear-Hover.png'" onmouseout="this.src='assets/images/sponsors/ThomsonLinear.png'"/></a></td>
 	</tr>
-	</tr>
+	<tr>
+		<!-- Kirby CMS -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.getkirby.com/"><img width="150" height="55" src="assets/images/sponsors/KirbyCMS.png" onmouseover="this.src='assets/images/sponsors/KirbyCMS-Hover.png'" onmouseout="this.src='assets/images/sponsors/KirbyCMS.png'"/></a></td>
 		<!-- Family Sponsors -->
 		<td class="sponsor">
 			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Jefferson</span>&nbsp;Family</span></div>
