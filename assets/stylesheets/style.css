@@ -424,6 +424,32 @@ span.disabled {
 	color: #aaaaaa;
 }
 
+#safetyFirstPin {
+	background-image: url(../vectors/safety-first-pin.svgz);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 200px 115px;
+	width: 200px; height: 115px;
+	margin-bottom: 50px;
+}
+
+.banner {
+	display: inline-block;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 200px 415px;
+	width: 200px; height: 415px;
+	padding: 0 25px;
+}
+
+.banner.ohSix {
+	background-image: url(../vectors/banner-06.svgz);
+}
+
+.banner.ohSeven {
+	background-image: url(../vectors/banner-07.svgz);
+}
+
 .mentorPost {
 	display: inline-block;
 }
