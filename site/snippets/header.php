@@ -6,7 +6,7 @@
 	<meta name="description" content="<?php echo html($site->description()) ?>" />
 	<meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
 	<meta name="robots" content="index, follow" />
-	<link rel="icon" type="image/png" href="favicon.png" />
+	<link rel="icon" type="image/png" href="/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.css" />
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.mobile.css" media="all and (max-device-width: 480px)" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
