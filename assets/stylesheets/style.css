@@ -232,6 +232,7 @@ h2 {
 	color: #444;
 	font-size: 1.4em;
 	font-weight: bold;
+	margin-bottom: 0.3em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -244,7 +245,7 @@ h3 {
 	font-size: 0.9em;
 	color: #444;
 	font-weight: normal;
-	margin: 0.5em 0;
+	margin-bottom: 0.5em;
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
@@ -502,6 +503,29 @@ span.disabled {
 
 .frcLogo {
 	padding-bottom: 9pt;
+}
+
+.frcTable {
+	width: 100%;
+	margin-bottom: 15pt;
+}
+
+.frcTable th, .frcTable td {
+	padding: 5pt 0;
+	border-left: 1px solid #dedede;
+	border-right: 1px solid #dedede;
+}
+
+.frcTable td {
+	border-top: 1px solid #dedede;
+}
+
+.frcTable th:first-of-type, .frcTable td:first-of-type {
+	border-left: 0;
+}
+
+.frcTable th:last-of-type, .frcTable td:last-of-type {
+	border-right: 0;
 }
 
 social {

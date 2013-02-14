@@ -18,3 +18,101 @@ Text:
 In each [FIRST Robotics Competition (FRC)](http://www.usfirst.org/roboticsprograms/frc), teams from around the world compete in a game created by FIRST. The rules of the game are revealed to the teams in January, in an event that kicks off build season. Build season continues for six more weeks, at the end of which the robots are shipped to competition sites.
 
 </div>
+<div class="post" markdown="1">
+
+## 2013: Ultimate Ascent
+
+Ultimate Ascent is the 2013 FIRST Robotics Competition game, where robots play a game similar to Frisbee Disc Golf. Robots pickup, track vision targets, and shoot Frisbees into one of the three different positioned goals. They then attempt to climb up a pyramid to gain extra points. They can even score into a special goal located on the top of the pyramid.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=wa5MGEZNrf0)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2012: Rebound Rumble
+
+Rebound Rumble is the 2012 FIRST Robotics Competition game, which is played on a 27 by 54 foot field (basketball court), with carpet flooring. The game is played by two alliances: red and blue. Each alliance consists of three different FRC teams. Each alliance has to score as many points as possible, as well as defended their four basketball hoops in matches that are 2 minutes and 15 seconds long. In the last 30 seconds of the match, each alliance has the opportunity to score &ldquo;coopertition&rdquo; points by balancing on their alliance's bridge or on the &ldquo;coopertition bridge.&rdquo; These &ldquo;coopertition&rdquo; points are used for seed rankings, which makes them very useful for ranking high at the competition.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=nOXsdhZZSdM)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2011: Logomotion
+
+Logomotion is the 2011 FIRST Robotics Competition game, where robots place inner tubes (in the shapes of the FIRST logo) on racks to gain points. They earn extra points if they form different patterns of the shapes, including the formation of the FIRST logo. The endgame is to deploy &ldquo;minibots&rdquo; to climb a tower.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=V0bRd2FlXmM)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2010: Breakaway
+
+Breakaway is the 2010 FIRST Robotics Competition game, where robots direct soccer balls into goals, cross speed bumps in the field, and hang themselves and each other on towers. They can call also pass through tunnels that are located in the center of the field.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=IEHAj3EmpMw)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2009: Lunacy
+
+Lunacy is the 2009 FIRST Robotics Competition game, where robots score &ldquo;Moon Rocks&rdquo;, &ldquo;Empty Cells&rdquo;, and &ldquo;Super Cells&rdquo; into trailers attached to the backs of robots, while playing along Regolith to simulate drive on the moon.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=ysfgfouorK4)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2008: FIRST Overdrive
+
+FIRST Overdrive is the 2008 FIRST Robotics Competition game, where robots raced counterclockwise around a central barrier (fence) while manipulating large 40 inch diameter &ldquo;Trackballs&rdquo; over and under overpasses to score additional points.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=3GdwfDcU_o4)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2007: Rack 'n Roll
+
+Rack ‘n Roll is the 2007 FIRST Robotics Competition game, where robots arrange toroidal game pieces on the central arena element known as &ldquo;The Rack.&rdquo; 
+Robots are categorized under the three different weight and height classes.
+
+<table class="frcTable">
+<thead>
+<tr>
+	<th align="center">Class</th>
+	<th align="center">I</th>
+	<th align="center">II</th>
+	<th align="center">III</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center">Height</td>
+	<td align="center">48 in</td>
+	<td align="center">60 in</td>
+	<td align="center">72 in</td>
+</tr>
+<tr>
+	<td align="center">Weight</td>
+	<td align="center">120 lb</td>
+	<td align="center">110 lb</td>
+	<td align="center">100 lb</td>
+</tr>
+</tbody>
+</table>
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=FJtWEUfNnBE)</div>
+
+</div>
+<div class="post" markdown="1">
+
+## 2006: Aim High
+
+Aim High is the 2006 FIRST Robotics Competition game, where robots deliver balls into the three different goals, and take certain positions on the field, depending if they are on offense or defense.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=jr-nNBK0O1Y)</div>
+
+</div>
