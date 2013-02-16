@@ -16,7 +16,13 @@
 		<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 </head>
-
+<!--                       __  __
+ _______                  / / / /
+/__  __/  ____  __  ___  / /_/ /
+  / / _ \/ __ `/  \/  /  \__  /
+ / /  __/ /_/ / /\_/ /     / /
+/_/\___/\__,_/_/  /_/     /_/
+-->
 <body>
 	<header>
 		<div>
