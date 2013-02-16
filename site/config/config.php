@@ -19,9 +19,24 @@ You are not allowed to run a website without a valid license key.
 Please read the End User License Agreement for more information: 
 http://getkirby.com/license
 
+
+---------------------------------------
+Date: February 11, 2013
+From: Bastian Allgeier <bastian@getkirby.com>
+To: Nicolas Gomollon <nicolas.gomollon@ht-la.org>
+Subject: Kirby License Question
+---------------------------------------
+
+Hey Nicolas,
+
+I would be more than happy to become a sponsor!! Feel free to use Kirby for your site with the following license code.
+Would you mind sending me a picture of the robot with the Kirby logo on it? I would love to post it on Twitter and tell people about your project :)
+
+Cheers, Bastian
+
 */
 
-c::set('license', 'your license key');
+c::set('license', 'T4-cy9hyd5ag4ap5wog2ej3shoc8vi4quoo');
 
 
 /* 
