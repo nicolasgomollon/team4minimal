@@ -473,6 +473,18 @@ span.disabled {
 	vertical-align: middle;
 }
 
+.dept {
+	display: inline-block;
+	font-style: normal;
+	background-color: #fffeca;
+	padding: 0 0.1em;
+}
+
+.deptHead {
+	display: inline-block;
+	margin-left: 1.5em;
+}
+
 .sponsor {
 	text-align: center;
 	vertical-align: middle;
