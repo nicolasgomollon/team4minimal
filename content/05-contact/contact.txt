@@ -51,6 +51,7 @@ Text:
 <span class="deptHead" markdown="1">[Spencer Cox][]</span>
 
 <span class="dept">Programming</span>
+<span class="deptHead" markdown="1">[Justin Comins][]</span>
 <span class="deptHead" markdown="1">[Mitchell Karchemsky][]</span>
 
 <span class="dept">Finance</span>
@@ -65,6 +66,7 @@ Text:
 [Rozie Yeghiazarian]:	mailto:rozie.yeghiazarian@ht-la.org
 [Jordan Rodgers]:		mailto:jordan.rodgers@ht-la.org
 [Spencer Cox]:			mailto:spencer.cox@ht-la.org
+[Justin Comins]:		mailto:justin.comins@ht-la.org
 [Mitchell Karchemsky]:	mailto:mitchell.karchemsky@ht-la.org
 [FirstName LastName]:	mailto:firstname.lastname@ht-la.org
 [Federico Gaytan]:		mailto:federico.gaytan@ht-la.org
