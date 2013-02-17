@@ -12,6 +12,18 @@
 	background-image: url(../images/phoenix.png);
 }
 
+.banner.ohFive {
+	background-image: url(../images/banner-05.png);
+}
+
+.banner.ohSix {
+	background-image: url(../images/banner-06.png);
+}
+
+.banner.ohSeven {
+	background-image: url(../images/banner-07.png);
+}
+
 #socialIconTwitter {
 	background-image: url(../images/twitter.png);
 }
