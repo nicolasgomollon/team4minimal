@@ -65,8 +65,8 @@ nav.pagination a.prev,nav.pagination a.next {
 	display: inline;
 }
 
-.banner.ohSix {
-	padding-bottom: 50px;
+.banner {
+	padding: 5px;
 }
 
 .mentorPost {

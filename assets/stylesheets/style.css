@@ -445,7 +445,11 @@ span.disabled {
 	background-repeat: no-repeat;
 	background-size: 200px 415px;
 	width: 200px; height: 415px;
-	padding: 0 25px;
+	padding: 0 5px;
+}
+
+.banner.ohFive {
+	background-image: url(../vectors/banner-05.svgz);
 }
 
 .banner.ohSix {
