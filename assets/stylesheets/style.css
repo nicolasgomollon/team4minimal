@@ -499,6 +499,14 @@ span.disabled {
 	margin-left: 1.5em;
 }
 
+.deptHead span {
+	font-size: 0.9em;
+	color: #444;
+	font-weight: normal;
+	margin-bottom: 0.5em;
+	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
+}
+
 .sponsor {
 	text-align: center;
 	vertical-align: middle;

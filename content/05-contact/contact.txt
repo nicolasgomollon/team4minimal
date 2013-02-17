@@ -42,34 +42,25 @@ Text:
 
 ## Department Heads
 <br /><span class="dept">Design</span>
-<span class="deptHead" markdown="1">[Rozie Yeghiazarian][]</span>
+<span class="deptHead">Rozie Yeghiazarian <span markdown="1">(<rozie.yeghiazarian@ht-la.org>)</span></span>
 
 <span class="dept">Electronics</span>
-<span class="deptHead" markdown="1">[Jordan Rodgers][]</span>
+<span class="deptHead">Jordan Rodgers <span markdown="1">(<jordan.rodgers@ht-la.org>)</span></span>
 
 <span class="dept">Machining</span>
-<span class="deptHead" markdown="1">[Spencer Cox][]</span>
+<span class="deptHead">Spencer Cox <span markdown="1">(<spencer.cox@ht-la.org>)</span></span>
 
 <span class="dept">Programming</span>
-<span class="deptHead" markdown="1">[Justin Comins][]</span>
-<span class="deptHead" markdown="1">[Mitchell Karchemsky][]</span>
+<span class="deptHead">Justin Comins <span markdown="1">(<justin.comins@ht-la.org>)</span></span>
+<span class="deptHead">Mitchell Karchemsky <span markdown="1">(<mitchell.karchemsky@ht-la.org>)</span></span>
 
 <span class="dept">Finance</span>
-<span class="deptHead" markdown="1">[FirstName LastName][]</span>
+<span class="deptHead">FirstName LastName <span markdown="1">(<firstname.lastname@ht-la.org>)</span></span>
 
 <span class="dept">Media</span>
-<span class="deptHead" markdown="1">[Federico Gaytan][]</span>
+<span class="deptHead">Federico Gaytan <span markdown="1">(<federico.gaytan@ht-la.org>)</span></span>
 
 <span class="dept">Website</span>
-<span class="deptHead" markdown="1">[Nicolas Gomollon][]</span>
-
-[Rozie Yeghiazarian]:	mailto:rozie.yeghiazarian@ht-la.org
-[Jordan Rodgers]:		mailto:jordan.rodgers@ht-la.org
-[Spencer Cox]:			mailto:spencer.cox@ht-la.org
-[Justin Comins]:		mailto:justin.comins@ht-la.org
-[Mitchell Karchemsky]:	mailto:mitchell.karchemsky@ht-la.org
-[FirstName LastName]:	mailto:firstname.lastname@ht-la.org
-[Federico Gaytan]:		mailto:federico.gaytan@ht-la.org
-[Nicolas Gomollon]:		mailto:nicolas.gomollon@ht-la.org
+<span class="deptHead">Nicolas Gomollon <span markdown="1">(<nicolas.gomollon@ht-la.org>)</span></span>
 
 </div>
