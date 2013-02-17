@@ -4,7 +4,6 @@ Text:
 
 <!-- -->
 <div class="post center">
-<div id="safetyFirstPin" class="center"></div>
 <div class="center banner ohSix"></div>
 <div class="center banner ohSeven"></div>
 </div>
