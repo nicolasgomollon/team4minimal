@@ -4,11 +4,11 @@
 	$items = ($open) ? $open->children()->visible() : false; 
 ?>
 <?php if($items && $items->count()): ?>
-	<nav id="submenu">
-		<ul>
+	<nav class="submenu">
+		<div>
 <?php foreach($items AS $item): ?>
-			<li><a<?php echo ($item->isOpen()) ? ' class="active"' : '' ?> href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a></li>
+			<a href="<?php echo $item->url() ?>"<?php echo ($item->isOpen()) ? ' class="active"' : '' ?>><?php echo html($item->title()) ?></a>
 <?php endforeach ?>            
-		</ul>
+		</div>
 	</nav>
 <?php endif ?>

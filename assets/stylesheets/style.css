@@ -117,13 +117,8 @@ nav {
 	margin-bottom: 18pt;
 }
 
-nav #submenu {
-	background: #134e8a;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	padding: 6pt;
-	text-align: center;
+nav.submenu {
+	margin-top: -26pt;
 	margin-bottom: 18pt;
 }
 
@@ -140,12 +135,25 @@ nav a {
 	border-bottom: 2pt solid transparent;
 }
 
+nav.submenu a {
+	font-weight: normal;
+	border-bottom: 1pt solid transparent;
+}
+
 nav a:hover {
 	border-bottom: 2pt solid;
 }
 
+nav.submenu a:hover {
+	border-bottom: 1pt solid;
+}
+
 .active {
 	border-bottom: 2pt solid;
+}
+
+.submenu .active {
+	border-bottom: 1pt solid;
 }
 
 a {
