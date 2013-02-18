@@ -386,8 +386,20 @@ img.post {
 	padding: 10pt 0;
 }
 
+img.post {
+	padding: 10pt 0;
+}
+
 img.postCenter {
 	padding: 10pt;
+}
+
+a.post {
+	border: 0;
+}
+
+a.post:hover {
+	border: 0;
 }
 
 .previous {

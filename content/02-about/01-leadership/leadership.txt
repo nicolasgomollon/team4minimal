@@ -3,7 +3,7 @@ Title: Leadership
 Text:
 
 <!-- -->
-<div class="post">
+<div class="post" markdown="1">
 
 <span class="dept">Design</span>
 <span class="deptHead">Rozie Yeghiazarian <span markdown="1">(<rozie.yeghiazarian@ht-la.org>)</span></span>
