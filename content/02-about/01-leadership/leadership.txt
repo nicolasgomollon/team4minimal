@@ -1,0 +1,30 @@
+Title: Leadership
+----
+Text:
+
+<!-- -->
+<div class="post">
+
+<span class="dept">Design</span>
+<span class="deptHead">Rozie Yeghiazarian <span markdown="1">(<rozie.yeghiazarian@ht-la.org>)</span></span>
+
+<span class="dept">Electronics</span>
+<span class="deptHead">Jordan Rodgers <span markdown="1">(<jordan.rodgers@ht-la.org>)</span></span>
+
+<span class="dept">Machining</span>
+<span class="deptHead">Spencer Cox <span markdown="1">(<spencer.cox@ht-la.org>)</span></span>
+
+<span class="dept">Programming</span>
+<span class="deptHead">Justin Comins <span markdown="1">(<justin.comins@ht-la.org>)</span></span>
+<span class="deptHead">Mitchell Karchemsky <span markdown="1">(<mitchell.karchemsky@ht-la.org>)</span></span>
+
+<span class="dept">Finance</span>
+<span class="deptHead">FirstName LastName <span markdown="1">(<firstname.lastname@ht-la.org>)</span></span>
+
+<span class="dept">Media</span>
+<span class="deptHead">Federico Gaytan <span markdown="1">(<federico.gaytan@ht-la.org>)</span></span>
+
+<span class="dept">Website</span>
+<span class="deptHead">Nicolas Gomollon <span markdown="1">(<nicolas.gomollon@ht-la.org>)</span></span>
+
+</div>
