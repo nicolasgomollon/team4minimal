@@ -1,3 +1,4 @@
+
 	<nav>
 		<div>
 <?php foreach($pages->visible() AS $p): ?>
