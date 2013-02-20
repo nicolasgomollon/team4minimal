@@ -54,6 +54,7 @@ Text:
 			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Jefferson</span>&nbsp;Family</span></div>
 			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Gaytan</span>&nbsp;Family</span></div>
 			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Karchemsky</span>&nbsp;Family</span></div>
+			<div><span class="sponsorFamily"><span class="sponsorFamilyName">Manlaibayar</span>&nbsp;Family</span></div>
 		</td>
 	</tr>
 	<tr>
