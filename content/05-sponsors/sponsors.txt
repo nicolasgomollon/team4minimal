@@ -39,12 +39,14 @@ Text:
 	<tr>
 		<!-- Time Warner Cable -->
 		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.timewarnercable.com/"><img width="150" height="59" src="assets/images/sponsors/TimeWarnerCable.png" onmouseover="this.src='assets/images/sponsors/TimeWarnerCable-Hover.png'" onmouseout="this.src='assets/images/sponsors/TimeWarnerCable.png'"/></a></td>
+		<!-- The Sign Shop -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.thesignshopca.com/"><img width="129" height="150" src="assets/images/sponsors/TheSignShop.png" onmouseover="this.src='assets/images/sponsors/TheSignShop-Hover.png'" onmouseout="this.src='assets/images/sponsors/TheSignShop.png'"/></a></td>
 		<!-- WAAG -->
 		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.waag.com/"><img width="150" height="29" src="assets/images/sponsors/WAAG.png" onmouseover="this.src='assets/images/sponsors/WAAG-Hover.png'" onmouseout="this.src='assets/images/sponsors/WAAG.png'"/></a></td>
-		<!-- Thomson Linear -->
-		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.thomsonlinear.com/"><img width="150" height="36" src="assets/images/sponsors/ThomsonLinear.png" onmouseover="this.src='assets/images/sponsors/ThomsonLinear-Hover.png'" onmouseout="this.src='assets/images/sponsors/ThomsonLinear.png'"/></a></td>
 	</tr>
 	<tr>
+		<!-- Thomson Linear -->
+		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.thomsonlinear.com/"><img width="150" height="36" src="assets/images/sponsors/ThomsonLinear.png" onmouseover="this.src='assets/images/sponsors/ThomsonLinear-Hover.png'" onmouseout="this.src='assets/images/sponsors/ThomsonLinear.png'"/></a></td>
 		<!-- Kirby CMS -->
 		<td class="sponsor"><a class="sponsorLogo" target="_blank" href="http://www.getkirby.com/"><img width="150" height="55" src="assets/images/sponsors/KirbyCMS.png" onmouseover="this.src='assets/images/sponsors/KirbyCMS-Hover.png'" onmouseout="this.src='assets/images/sponsors/KirbyCMS.png'"/></a></td>
 		<!-- Family Sponsors -->
