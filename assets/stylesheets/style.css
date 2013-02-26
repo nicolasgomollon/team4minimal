@@ -3,15 +3,23 @@
 @font-face {
 	font-family: "Montserrat";
 	font-style: normal;
-	font-weight: 400;
-	src: local("Montserrat-Regular"), url(../fonts/Montserrat/Montserrat-Regular.woff) format("woff");
+	font-weight: normal;
+	src: url(../fonts/Montserrat/Montserrat-Regular.eot);
+	src: url(../fonts/Montserrat/Montserrat-Regular.eot?#iefix) format("embedded-opentype"),
+		 url(../fonts/Montserrat/Montserrat-Regular.woff) format("woff"),
+		 url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype"),
+		 url(../fonts/Montserrat/Montserrat-Regular.svg#montserratregular) format("svg");
 }
 
 @font-face {
 	font-family: "Montserrat";
 	font-style: normal;
-	font-weight: 700;
-	src: local("Montserrat-Bold"), url(../fonts/Montserrat/Montserrat-Bold.woff) format("woff");
+	font-weight: bold;
+	src: url(../fonts/Montserrat/Montserrat-Bold.eot);
+	src: url(../fonts/Montserrat/Montserrat-Bold.eot?#iefix) format("embedded-opentype"),
+		 url(../fonts/Montserrat/Montserrat-Bold.woff) format("woff"),
+		 url(../fonts/Montserrat/Montserrat-Bold.ttf) format("truetype"),
+		 url(../fonts/Montserrat/Montserrat-Bold.svg#montserratbold) format("svg");
 }
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, dialog, embed, figure, figcaption, social, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -38,7 +46,7 @@ html {
 
 body {
 	font-family: "Gotham", "Gotham Book", "Gotham-Book", "ProximaNova-Regular", "Avenir", "Montserrat", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-	font-weight: 300;
+	font-weight: normal;
 	font-size: 12pt;
 	line-height: 1.5em;
 }

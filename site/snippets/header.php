@@ -10,6 +10,21 @@
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.css" />
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.mobile.css" media="all and (max-device-width: 480px)" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+	<script type="text/javascript">
+		var os = navigator.platform.substring(0,3);
+		if (os == "Win") {
+			var cssUrl = "assets/stylesheets/style.win.css";
+			
+			var head = document.getElementsByTagName("head")[0];
+			var link = document.createElement("link");
+			
+			link.rel = "stylesheet";
+			link.type = "text/css";
+			link.href = cssUrl;
+			
+			document.head.appendChild(link);
+		}
+	</script>
 	<!--[if IE]>
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.ie.css" />
