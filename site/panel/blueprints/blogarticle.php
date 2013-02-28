@@ -9,6 +9,10 @@ fields:
   title: 
     label: Title
     type:  text
+  date: 
+    label: Date
+    type:  date
+    format: mm/dd/yy
   text: 
     label: Text
     type:  textarea
