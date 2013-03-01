@@ -1,4 +1,0 @@
-Title: Home
-----
-Text: This is our blog
-<!-- NOTE: Replace emphasis with italics in blockquotes. -->
