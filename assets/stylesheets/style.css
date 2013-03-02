@@ -133,7 +133,7 @@ nav.submenu {
 nav a {
 	color: #fff;
 	font-weight: bold;
-	margin-left: 0.5em;
+	margin: auto 0.25em;
 	-webkit-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
 	-moz-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
 	-ms-transition: color 0.1s ease-in-out, border 0.1s ease-in-out;
