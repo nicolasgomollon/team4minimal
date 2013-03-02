@@ -295,6 +295,12 @@ h4 {
 	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.75);
 }
 
+img {
+	width: 100%;
+	max-width: 640px;
+	height: auto;
+}
+
 a.light {
 	color: #9a9ea8;
 }
@@ -396,10 +402,6 @@ span.nowrap {
 
 .post {
 	padding: 18pt 0;
-}
-
-img.post {
-	padding: 10pt 0;
 }
 
 img.post {
@@ -544,6 +546,11 @@ span.disabled {
 	text-align: center;
 	vertical-align: middle;
 	padding: 10pt 0pt;
+}
+
+.sponsor img {
+	max-width: 150px;
+	height: auto;
 }
 
 .sponsorLogo {

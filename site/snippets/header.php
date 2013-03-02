@@ -8,7 +8,7 @@
 	<meta name="robots" content="index, follow" />
 	<link rel="icon" type="image/png" href="/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.css" />
-	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.mobile.css" media="all and (max-device-width: 480px)" />
+	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.mobile.css" media="all and (max-width: 640px)" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 	<script type="text/javascript">
 		var os = navigator.platform.substring(0,3);
