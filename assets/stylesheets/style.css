@@ -479,6 +479,11 @@ span.disabled {
 	color: #aaaaaa;
 }
 
+.robotHero {
+	width: 178px;
+	height: 165px;
+}
+
 .banner {
 	display: inline-block;
 	background-position: center center;
