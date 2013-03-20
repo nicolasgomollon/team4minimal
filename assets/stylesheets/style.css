@@ -479,6 +479,23 @@ span.disabled {
 	color: #aaaaaa;
 }
 
+.hero * {
+	margin: 15pt;
+}
+
+.hero.top {
+	margin-top: 0;
+}
+
+.hero.bottom {
+	margin-bottom: 0;
+}
+
+.hero img {
+	max-width: 255px;
+	height: auto;
+}
+
 .robotHero {
 	width: 178px;
 	height: 165px;
