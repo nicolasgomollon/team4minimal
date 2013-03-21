@@ -523,6 +523,12 @@ span.disabled {
 	background-image: url(../vectors/banner-07.svgz);
 }
 
+iframe {
+	width: 100%;
+	max-width: 640px;
+	height: auto;
+}
+
 .mentorPost {
 	display: inline-block;
 }
