@@ -523,10 +523,21 @@ span.disabled {
 	background-image: url(../vectors/banner-07.svgz);
 }
 
-iframe {
+.youtubeVideo {
+	position: relative;
+}
+
+.youtubeVideo .ratio {
+	display: block;
 	width: 100%;
 	max-width: 640px;
 	height: auto;
+}
+
+.youtubeVideo iframe {
+	position: absolute;
+	top: 0; left: 0;
+	width: 100%; height: 100%;
 }
 
 .mentorPost {
