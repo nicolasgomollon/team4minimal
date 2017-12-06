@@ -1,0 +1,14 @@
+Title: 2012
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2012: Rebound Rumble
+
+Rebound Rumble is the 2012 FIRST Robotics Competition game, which is played on a 27 by 54 foot field (basketball court), with carpet flooring. The game is played by two alliances: red and blue. Each alliance consists of three different FRC teams. Each alliance has to score as many points as possible, as well as defended their four basketball hoops in matches that are 2 minutes and 15 seconds long. In the last 30 seconds of the match, each alliance has the opportunity to score &ldquo;coopertition&rdquo; points by balancing on their alliance's bridge or on the &ldquo;coopertition bridge.&rdquo; These &ldquo;coopertition&rdquo; points are used for seed rankings, which makes them very useful for ranking high at the competition.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=nOXsdhZZSdM)</div>
+
+</div>

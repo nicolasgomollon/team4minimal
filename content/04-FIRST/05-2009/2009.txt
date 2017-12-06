@@ -1,0 +1,14 @@
+Title: 2009
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2009: Lunacy
+
+Lunacy is the 2009 FIRST Robotics Competition game, where robots score &ldquo;Moon Rocks&rdquo;, &ldquo;Empty Cells&rdquo;, and &ldquo;Super Cells&rdquo; into trailers attached to the backs of robots, while playing along Regolith to simulate drive on the moon.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=ysfgfouorK4)</div>
+
+</div>

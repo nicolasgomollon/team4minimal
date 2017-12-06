@@ -1,0 +1,40 @@
+Title: 2007
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2007: Rack 'n Roll
+
+Rack ‘n Roll is the 2007 FIRST Robotics Competition game, where robots arrange toroidal game pieces on the central arena element known as &ldquo;The Rack.&rdquo; 
+Robots are categorized under the three different weight and height classes.
+
+<table class="frcTable">
+<thead>
+<tr>
+	<th align="center">Class</th>
+	<th align="center">I</th>
+	<th align="center">II</th>
+	<th align="center">III</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center">Height</td>
+	<td align="center">48 in</td>
+	<td align="center">60 in</td>
+	<td align="center">72 in</td>
+</tr>
+<tr>
+	<td align="center">Weight</td>
+	<td align="center">120 lb</td>
+	<td align="center">110 lb</td>
+	<td align="center">100 lb</td>
+</tr>
+</tbody>
+</table>
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=FJtWEUfNnBE)</div>
+
+</div>

@@ -1,0 +1,34 @@
+Title: Leadership
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+<span class="dept">Project Manager</span>
+<span class="deptHead">Kelly Manlaibayar <span markdown="1">((email: khishigt.manlaibayar@ht-la.org))</span></span>
+
+<span class="dept">Design</span>
+<span class="deptHead">Rozie Yeghiazarian <span markdown="1">((email: rozie.yeghiazarian@ht-la.org))</span></span>
+
+<span class="dept">Electronics</span>
+<span class="deptHead">Jordan Rodgers <span markdown="1">((email: jordan.rodgers@ht-la.org))</span></span>
+<span class="deptHead">Gregory Klatchko <span markdown="1">((email: gregory.klatchko@ht-la.org))</span></span>
+
+<span class="dept">Machining</span>
+<span class="deptHead">Spencer Cox <span markdown="1">((email: spencer.cox@ht-la.org))</span></span>
+
+<span class="dept">Programming</span>
+<span class="deptHead">Justin Comins <span markdown="1">((email: justin.comins@ht-la.org))</span></span>
+<span class="deptHead">Mitchell Karchemsky <span markdown="1">((email: mitchell.karchemsky@ht-la.org))</span></span>
+
+<span class="dept">Sponsorships and Grants</span>
+<span class="deptHead">Shawn Schwartz <span markdown="1">((email: shawn.schwartz@ht-la.org))</span></span>
+
+<span class="dept">Media</span>
+<span class="deptHead">Federico Gaytan <span markdown="1">((email: federico.gaytan@ht-la.org))</span></span>
+
+<span class="dept">Website</span>
+<span class="deptHead">Nicolas Gomollon <span markdown="1">((email: nicolas.gomollon@ht-la.org))</span></span>
+
+</div>

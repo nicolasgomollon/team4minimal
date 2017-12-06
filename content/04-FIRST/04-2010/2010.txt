@@ -1,0 +1,14 @@
+Title: 2010
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2010: Breakaway
+
+Breakaway is the 2010 FIRST Robotics Competition game, where robots direct soccer balls into goals, cross speed bumps in the field, and hang themselves and each other on towers. They can call also pass through tunnels that are located in the center of the field.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=IEHAj3EmpMw)</div>
+
+</div>

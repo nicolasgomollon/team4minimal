@@ -1,0 +1,18 @@
+Title: Build Season Day 1
+----
+Date: 01/05/2013
+----
+Text:
+
+The time for robot building has arrived. One word is ringing in everyone's ears: prototypes. Several prototypes for the climber, shooter, and disc grabber are in the process of being created while others are working on the cRIO and software.
+
+Three climbing prototypes are being worked on in small groups, and they've all made quite a bit of progress. Team member Sidney Ortega said she's almost done, and the gears are just a little off for her wheel solution. If her prototype is successful, she believes the gear system may be applicable to other things needed for the robot. Way to go, Sidney! The other climbing prototypes are coming along and should be finished by the end of the week.
+
+The shooter and disc grabber prototypes seem to be successful so far. They're still in their early stages, but team members are confident they'll be finished soon.
+
+A small group worked on flashing the cRIO, updating all the software, and writing basic code. The basic drive code is complete, and as for the other tasks,
+
+> We should be able to finish it tomorrow in elective.
+> — Shawn Schwartz
+
+Morale is high, and everyone is buckling down to do work. Great job, Team 4 ELEMENT!

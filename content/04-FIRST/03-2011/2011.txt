@@ -1,0 +1,14 @@
+Title: 2011
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2011: Logomotion
+
+Logomotion is the 2011 FIRST Robotics Competition game, where robots place inner tubes (in the shapes of the FIRST logo) on racks to gain points. They earn extra points if they form different patterns of the shapes, including the formation of the FIRST logo. The endgame is to deploy &ldquo;minibots&rdquo; to climb a tower.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=V0bRd2FlXmM)</div>
+
+</div>

@@ -1,0 +1,11 @@
+Title: Build Season Day 5
+----
+Date: 01/09/2013
+----
+Text:
+
+It is day fourth of build season. Everyone is working hard to get their prototype shooters and climbers done. While others are working on setting up the new laptop that will be used for the driver station at competition. The machinists are working on getting the wheel shafts and side plates for the robot done.
+
+The shooter prototypes are almost done. Those who are working on them are trying to attach the wheel to the platform and get it powered up. They are hopeful to get it working flawlessly by tomorrow. The climbing mechanisms are still a work in progress. The climbing prototypes should be done by the end of this week.
+
+The programmers are trying to get their drive straight code working. This will allow us to drive straight across the field with out veering off where we want the robot to go. They are also working on getting the gyroscope to work. The gyroscope will tell us when the robot is not facing the direction we want it to. So with a push of a button the robot will correct the way it is facing.

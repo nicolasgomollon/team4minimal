@@ -1,0 +1,14 @@
+Title: 2006
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2006: Aim High
+
+Aim High is the 2006 FIRST Robotics Competition game, where robots deliver balls into the three different goals, and take certain positions on the field, depending if they are on offense or defense.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=jr-nNBK0O1Y)</div>
+
+</div>

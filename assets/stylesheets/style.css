@@ -301,6 +301,10 @@ img {
 	height: auto;
 }
 
+span.mentor img {
+	width: 240px;
+}
+
 a.light {
 	color: #9a9ea8;
 }

@@ -1,0 +1,14 @@
+Title: 2013
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+## 2013: Ultimate Ascent
+
+Ultimate Ascent is the 2013 FIRST Robotics Competition game, where robots play a game similar to Frisbee Disc Golf. Robots pickup, track vision targets, and shoot Frisbees into one of the three different positioned goals. They then attempt to climb up a pyramid to gain extra points. They can even score into a special goal located on the top of the pyramid.
+
+<div class="center">(youtube: http://www.youtube.com/watch?v=wa5MGEZNrf0)</div>
+
+</div>

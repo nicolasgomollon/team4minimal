@@ -1,0 +1,15 @@
+Title: Build Season Day 6
+----
+Date: 01/10/2013
+----
+Text:
+
+As we are approaching the end of the first week of this speedy build season, our team has made a lot of progress so far. Finishing up prototypes, CAD Designs, Drivebase Machining, and writing awesome code is the highlight of this week.
+
+As of right now, we are running a little ahead of schedule, which is allowing us to make important decessions for this year's robot, with the proper thought behind them. Today, we protoyped a shooter and were able to shoot frisbees at a significantly far distance, compared to our other failed attemps from earlier this week.
+
+In programming, Heads of Department Justin Comins and Mitchell Karchemsky have been mentoring myself with writing the PID Loops and Gryoscope optimization for robot driving code. We should be done and ready to program the manipulators soon.
+
+Electronics worked on using our &ldquo;First Choice&rdquo; credits to order new parts that we need for our robot right now. Department Head, Jordan Rodgers, worked on imaging the cRIO and our new driverstation netbook that we just recieved yesterday, with the 2013 competition software.
+
+Overall, we are doing awesome and cannot wait for competition! Keep up the great work, Team 4!

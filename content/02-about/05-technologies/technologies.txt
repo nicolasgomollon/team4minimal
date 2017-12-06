@@ -1,0 +1,16 @@
+Title: Technologies
+----
+Text:
+
+<!-- -->
+<div class="post" markdown="1">
+
+This website runs on [Kirby CMS](http://www.getkirby.com/), a PHP content management system that supports the use of markdown.
+
+We chose to make use of vectors (SVGs), rather than standard images where possible to improve page speed, and keep the website looking sharp even on newer high-pixel-density displays. Any images used throughout the site are also complemented by an additional copy of the image that is double the size, to account for those HiDPI displays.
+
+Team 4's website is cross-browser compatible, so it runs on all major web browsers, and supports a wide range of operating systems. Some of the compatible web browsers include: Google Chrome, Firefox, Safari, and even Internet Explorer 8+. Additionally, the website is responsive, so users have a great experience on desktop _and_ mobile devices.
+
+The design for this website was inspired by other popular minimal websites, such as [Sam Soffes's Blog](http://soff.es/), [GitHub](http://www.github.com/), and [Apple](http://www.apple.com/). The main focus of the redesigned website is to keep ther website clean, uncluttered, and easy to navigate. As a result, the website ends up with fewer errors and increased browser compatibility and responsiveness.
+
+</div>
