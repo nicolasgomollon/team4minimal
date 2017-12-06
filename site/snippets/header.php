@@ -41,7 +41,7 @@
 <body>
 	<header>
 		<div>
-			<a href="<?php echo url() ?>"><div id="<? ecco($page->isErrorPage(), 'fourOHfour', 'teamFourElement') ?>"></div></a>
+			<a href="<?php echo url() ?>"><div id="<?php ecco($page->isErrorPage(), 'fourOHfour', 'teamFourElement') ?>"></div></a>
 			<div id="phoenix" class="noMobile"></div>
 			<div id="schoolInfo">
 				<a href="http://www.ht-la.org/" target="_blank">High Tech Los Angeles</a>
