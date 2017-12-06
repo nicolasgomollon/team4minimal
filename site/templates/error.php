@@ -1,5 +1,6 @@
 <?php
-	$currentURL = "http://".$_SERVER["HTTP_HOST"].$_SERVER["REQUEST_URI"];
+	$scheme = (!empty($_SERVER["HTTPS"]) && ($_SERVER["HTTPS"] !== "off") || ($_SERVER["SERVER_PORT"] == 443)) ? "https://" : "http://";
+	$currentURL = $scheme.$_SERVER["HTTP_HOST"].$_SERVER["REQUEST_URI"];
 	$currentURL = rawurlencode($currentURL);
 	
 	$mailTo = "&#109;&#97;&#105;&#108;&#116;&#111;&#58;";	// mailto:

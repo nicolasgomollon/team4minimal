@@ -6,14 +6,14 @@
 	<meta name="description" content="<?php echo html($site->description()) ?>" />
 	<meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
 	<meta name="robots" content="index, follow" />
-	<link rel="icon" type="image/png" href="/favicon.png" />
-	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.css" />
-	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.mobile.css" media="all and (max-width: 640px)" />
+	<link rel="icon" type="image/png" href="<?php echo url('favicon.png') ?>" />
+	<link rel="stylesheet" type="text/css" href="<?php echo url('assets/stylesheets/style.css') ?>" />
+	<link rel="stylesheet" type="text/css" href="<?php echo url('assets/stylesheets/style.mobile.css') ?>" media="all and (max-width: 640px)" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 	<script type="text/javascript">
 		var os = navigator.platform.substring(0,3);
 		if (os == "Win") {
-			var cssUrl = "assets/stylesheets/style.win.css";
+			var cssUrl = "<?php echo url('assets/stylesheets/style.win.css') ?>";
 			
 			var head = document.getElementsByTagName("head")[0];
 			var link = document.createElement("link");
@@ -26,8 +26,8 @@
 		}
 	</script>
 	<!--[if IE]>
-		<link rel="shortcut icon" href="/favicon.ico" />
-		<link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.ie.css" />
+		<link rel="shortcut icon" href="<?php echo url('favicon.ico') ?>" />
+		<link rel="stylesheet" type="text/css" href="<?php echo url('assets/stylesheets/style.ie.css') ?>" />
 		<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 </head>
