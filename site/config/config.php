@@ -150,6 +150,7 @@ embedded flash videos from youtube or vimeo
 
 */
 
+c::set('kirbytext.image.figure', false);
 c::set('kirbytext.video.width', 480); 
 c::set('kirbytext.video.height', 358); 
 
@@ -456,3 +457,31 @@ array('.', '..', '.DS_Store', '.svn', '.git', '.htaccess');
 
 */
 c::set('content.file.ignore', array());
+
+
+/* 
+
+---------------------------------------
+Panel Config
+---------------------------------------
+
+*/
+
+// set the default panel language
+c::set('panel.language', 'en');
+
+// set the main color for the panel design
+// can be any valid css color definition
+c::set('panel.color', '#134e8a');
+
+// allowed mime types for file uploads
+c::set('upload.allowed', array(
+	'image/jpeg', 
+	'image/pjpeg',
+	'image/png',
+	'image/x-png', 
+	'image/gif',
+	'application/pdf',
+	'application/gzip',
+	'application/zip',
+));
