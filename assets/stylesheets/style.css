@@ -4,22 +4,22 @@
 	font-family: "Montserrat";
 	font-style: normal;
 	font-weight: normal;
-	src: url(../fonts/Montserrat/Montserrat-Regular.eot);
-	src: url(../fonts/Montserrat/Montserrat-Regular.eot?#iefix) format("embedded-opentype"),
-		 url(../fonts/Montserrat/Montserrat-Regular.woff) format("woff"),
-		 url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype"),
-		 url(../fonts/Montserrat/Montserrat-Regular.svg#montserratregular) format("svg");
+	src: url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Regular.eot);
+	src: url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Regular.eot#iefix) format("embedded-opentype"),
+		 url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Regular.woff) format("woff"),
+		 url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Regular.ttf) format("truetype"),
+		 url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Regular.svg#montserratregular) format("svg");
 }
 
 @font-face {
 	font-family: "Montserrat";
 	font-style: normal;
 	font-weight: bold;
-	src: url(../fonts/Montserrat/Montserrat-Bold.eot);
-	src: url(../fonts/Montserrat/Montserrat-Bold.eot?#iefix) format("embedded-opentype"),
-		 url(../fonts/Montserrat/Montserrat-Bold.woff) format("woff"),
-		 url(../fonts/Montserrat/Montserrat-Bold.ttf) format("truetype"),
-		 url(../fonts/Montserrat/Montserrat-Bold.svg#montserratbold) format("svg");
+	src: url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Bold.eot);
+	src: url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Bold.eot#iefix) format("embedded-opentype"),
+		 url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Bold.woff) format("woff"),
+		 url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Bold.ttf) format("truetype"),
+		 url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Bold.svg#montserratbold) format("svg");
 }
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, dialog, embed, figure, figcaption, social, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -362,7 +362,7 @@ span.nowrap {
 #fourOHfour {
 	float: left;
 	margin-top: 50px;
-	background-image: url(../vectors/four-oh-four.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/four-oh-four.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 268px 134px;
@@ -372,7 +372,7 @@ span.nowrap {
 #teamFourElement {
 	float: left;
 	margin-top: 50px;
-	background-image: url(../vectors/team-four-element.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/team-four-element.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 314px 134px;
@@ -381,7 +381,7 @@ span.nowrap {
 
 #phoenix {
 	float: right;
-	background-image: url(../vectors/phoenix.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/phoenix.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 300px 300px;
@@ -516,15 +516,15 @@ span.disabled {
 }
 
 .banner.ohFive {
-	background-image: url(../vectors/banner-05.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/banner-05.archive.svg);
 }
 
 .banner.ohSix {
-	background-image: url(../vectors/banner-06.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/banner-06.archive.svg);
 }
 
 .banner.ohSeven {
-	background-image: url(../vectors/banner-07.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/banner-07.archive.svg);
 }
 
 .youtubeVideo {
@@ -665,7 +665,7 @@ social div a:hover {
 }
 
 #socialIconTwitter {
-	background-image: url(../vectors/twitter.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/twitter.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 30px 24px;
@@ -673,7 +673,7 @@ social div a:hover {
 }
 
 #socialIconFacebook {
-	background-image: url(../vectors/facebook.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/facebook.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 24px 24px;
@@ -681,7 +681,7 @@ social div a:hover {
 }
 
 #socialIconYouTube {
-	background-image: url(../vectors/youtube.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/youtube.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 64px 24px;
@@ -689,7 +689,7 @@ social div a:hover {
 }
 
 #socialIconInstagram {
-	background-image: url(../vectors/instagram.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/instagram.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 24px 24px;
@@ -697,7 +697,7 @@ social div a:hover {
 }
 
 #socialIconGitHub {
-	background-image: url(../vectors/github.svgz);
+	background-image: url(/school/robotics/team4minimal/assets/vectors/github.archive.svg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 24px 24px;

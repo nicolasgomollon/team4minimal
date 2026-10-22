@@ -5,13 +5,13 @@
 		font-family: "Montserrat" !important;
 		font-style: normal !important;
 		font-weight: normal !important;
-		src: url(../fonts/Montserrat/Montserrat-Regular.svg#montserratregular) format("svg") !important;
+		src: url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Regular.svg#montserratregular) format("svg") !important;
 	}
 	
 	@font-face {
 		font-family: "Montserrat" !important;
 		font-style: normal !important;
 		font-weight: bold !important;
-		src: url(../fonts/Montserrat/Montserrat-Bold.svg#montserratbold) format("svg") !important;
+		src: url(/school/robotics/team4minimal/assets/fonts/Montserrat/Montserrat-Bold.svg#montserratbold) format("svg") !important;
 	}
 }

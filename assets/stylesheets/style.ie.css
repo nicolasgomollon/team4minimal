@@ -1,45 +1,45 @@
 @charset "utf-8";
 
 #fourOHfour {
-	background-image: url(../images/four-oh-four.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/four-oh-four.png);
 }
 
 #teamFourElement {
-	background-image: url(../images/team-four-element.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/team-four-element.png);
 }
 
 #phoenix {
-	background-image: url(../images/phoenix.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/phoenix.png);
 }
 
 .banner.ohFive {
-	background-image: url(../images/banner-05.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/banner-05.png);
 }
 
 .banner.ohSix {
-	background-image: url(../images/banner-06.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/banner-06.png);
 }
 
 .banner.ohSeven {
-	background-image: url(../images/banner-07.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/banner-07.png);
 }
 
 #socialIconTwitter {
-	background-image: url(../images/twitter.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/twitter.png);
 }
 
 #socialIconFacebook {
-	background-image: url(../images/facebook.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/facebook.png);
 }
 
 #socialIconYouTube {
-	background-image: url(../images/youtube.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/youtube.png);
 }
 
 #socialIconInstagram {
-	background-image: url(../images/instagram.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/instagram.png);
 }
 
 #socialIconGitHub {
-	background-image: url(../images/github.png);
+	background-image: url(/school/robotics/team4minimal/assets/images/github.png);
 }

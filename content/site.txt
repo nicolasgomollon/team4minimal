@@ -1,9 +1,0 @@
-Title: Team 4 ELEMENT
-----
-Author: Nicolas Gomollon
-----
-Description: Team 4 is awesome
-----
-Keywords: team, team4, element, robotics, first, frc, competition
-----
-Copyright: Copyright &copy; 2013 Team 4 ELEMENT
